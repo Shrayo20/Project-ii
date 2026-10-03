@@ -1,0 +1,82 @@
+[
+  {
+    "id": "p-1001",
+    "name": "Canvas Weekender",
+    "sku": "BAG-014",
+    "category": "Accessories",
+    "quantity": 24,
+    "minStock": 8,
+    "price": 68,
+    "updatedAt": "2026-10-03T09:15:00.000Z"
+  },
+  {
+    "id": "p-1002",
+    "name": "Everyday Crew Tee",
+    "sku": "APP-022",
+    "category": "Apparel",
+    "quantity": 6,
+    "minStock": 10,
+    "price": 32,
+    "updatedAt": "2026-10-02T14:30:00.000Z"
+  },
+  {
+    "id": "p-1003",
+    "name": "Ribbed Ceramic Vase",
+    "sku": "HOM-008",
+    "category": "Home goods",
+    "quantity": 18,
+    "minStock": 6,
+    "price": 44,
+    "updatedAt": "2026-10-02T11:05:00.000Z"
+  },
+  {
+    "id": "p-1004",
+    "name": "Linen Market Tote",
+    "sku": "BAG-031",
+    "category": "Accessories",
+    "quantity": 3,
+    "minStock": 8,
+    "price": 38,
+    "updatedAt": "2026-10-01T16:40:00.000Z"
+  },
+  {
+    "id": "p-1005",
+    "name": "Desk Light Mini",
+    "sku": "ELC-005",
+    "category": "Electronics",
+    "quantity": 12,
+    "minStock": 5,
+    "price": 79,
+    "updatedAt": "2026-10-01T10:20:00.000Z"
+  },
+  {
+    "id": "p-1006",
+    "name": "Softcover Daily Planner",
+    "sku": "STA-017",
+    "category": "Stationery",
+    "quantity": 0,
+    "minStock": 12,
+    "price": 24,
+    "updatedAt": "2026-09-30T13:15:00.000Z"
+  },
+  {
+    "id": "p-1007",
+    "name": "Relaxed Oxford Shirt",
+    "sku": "APP-041",
+    "category": "Apparel",
+    "quantity": 31,
+    "minStock": 9,
+    "price": 74,
+    "updatedAt": "2026-09-29T09:50:00.000Z"
+  },
+  {
+    "id": "p-1008",
+    "name": "Stacking Stoneware Mug",
+    "sku": "HOM-019",
+    "category": "Home goods",
+    "quantity": 15,
+    "minStock": 6,
+    "price": 28,
+    "updatedAt": "2026-09-28T15:05:00.000Z"
+  }
+]

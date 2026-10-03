@@ -1,0 +1,32 @@
+:root {
+  --body: 'DM Sans', 'Segoe UI', sans-serif;
+  --display: 'Space Grotesk', 'DM Sans', 'Segoe UI', sans-serif;
+  --mono: 'Cascadia Code', Consolas, monospace;
+  font-family: var(--body);
+  font-size: 14px;
+  color: #43554b;
+  background: #f6f8f6;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* { box-sizing: border-box; }
+
+html { min-width: 320px; }
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  font-family: var(--body);
+  font-size: 13px;
+  line-height: 1.45;
+}
+
+#root { min-height: 100vh; }
+
+button, input, select { font: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible { outline: 2px solid #76a85d; outline-offset: 2px; }
+::selection { color: #17392f; background: #d9f1b4; }
